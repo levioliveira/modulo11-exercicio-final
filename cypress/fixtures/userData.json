@@ -1,0 +1,14 @@
+{
+  "userWithValidAccess": {
+    "username": "aluno_ebac@teste.com",
+    "password": "teste@teste.com"
+  },
+  "userWithInvalidEmail": {
+    "username": "124@teste.com",
+    "password": "teste@teste.com"
+  },
+  "userWithInvalidPassword": {
+    "username": "aluno_ebac@teste.com",
+    "password": "XTR4w@0ç"
+  }
+}

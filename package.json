@@ -1,0 +1,26 @@
+{
+  "name": "modulo11-exercicio-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levioliveira/modulo11-exercicio-final.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/levioliveira/modulo11-exercicio-final/issues"
+  },
+  "homepage": "https://github.com/levioliveira/modulo11-exercicio-final#readme",
+  "devDependencies": {
+    "cypress": "^12.4.0"
+  },
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}
