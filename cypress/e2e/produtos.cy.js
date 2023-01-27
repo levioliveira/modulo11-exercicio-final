@@ -21,7 +21,7 @@ describe('Funcionalidade Página de produtos', () => {
         cy.get('.woocommerce-message').should('contain', quantity + ' × “Abominable Hoodie” foram adicionados no seu carrinho.')
     })
 
-    it('Deve limpar o carrinho após adicionar produtos produtos da lista', () => {
+    it('Deve limpar o carrinho após adicionar produtos da lista', () => {
         var quantity = 10
         const productName = 'Abominable Hoodie'
         cy.get('[class="product-block grid"]').contains(productName).click()
